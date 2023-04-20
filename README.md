@@ -1,2 +1,2 @@
-# fule_consumption
-ML model
+# fule_consumption ML model
+By using Linear Regression
